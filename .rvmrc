@@ -1,0 +1,6 @@
+export ADAPTER="mysql"
+export DM_DB_PASSWORD=""
+export DM_DB_USER="root"
+export GIT_BRANCH="v1.2.0"
+
+rvm use 1.9.2@dm
